@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruhan-Ahmad
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS and Flask (Python)
+- 🌱 I’m currently learning React JS, Flask (Python) and Django Rest Framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
