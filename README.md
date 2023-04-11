@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruhan-Ahmad
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working in React JS, bootstap and Django Rest Framework
+- 🌱 I’m currently working in React JS, bootstrap and Django Rest Framework
 
 
 <!---
