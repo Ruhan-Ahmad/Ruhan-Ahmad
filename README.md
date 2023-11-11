@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ruhan-Ahmad
+- 👋 Hi, I’m @Ruhan-Ahmad. I am Software Engineer
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working in React JS, bootstrap, Django Rest Framework, and Chalice Framework
+- 🌱 I’m currently working in React JS, Bootstrap, Django Rest Framework, Chalice Framework and Flask
 
 
 <!---
